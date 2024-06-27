@@ -58,3 +58,8 @@ Developed a comprehensive database management system for a hospital, encompassin
 - Entity-Relationship Diagramming
 - Requirements Analysis
 - System Design
+
+## Contributors
+- Gargie Tambe 
+- Yash Shinde
+- Abhinav Raundhal
