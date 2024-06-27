@@ -41,6 +41,16 @@ Developed a comprehensive database management system for a hospital, encompassin
 - Implemented data integrity constraints and relationships
 - Created a user-friendly interface for database operations
 
+## Execution Instructions
+
+1. Ensure you have Python and a SQL database system installed on your machine.
+
+2. Set up the temporary database:
+     `mysql -u your_username -p < dump.sql`
+3. Run the Python script to interact with the database:
+     `python3 pythonscript.py`
+4. Follow the on-screen prompts to perform various database operations
+
 ## Skills Demonstrated
 - Database Design and Modeling
 - SQL Programming
